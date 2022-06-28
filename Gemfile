@@ -46,3 +46,5 @@ group :development do
   # gem "spring"
 end
 
+# HTTP/REST API client library. [https://lostisland.github.io/faraday/]
+gem 'faraday', '~> 2.3'

@@ -1,3 +1,0 @@
-class WeatherController < ApplicationController
-
-end
